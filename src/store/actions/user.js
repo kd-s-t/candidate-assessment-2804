@@ -75,7 +75,7 @@ export const connectAccount = (firstRun = false) =>
     const providerOptions = {
       injected: {
         display: {
-          // Allowede metamask assets to downloaded located here https://metamask.io/assets
+          // Allowed metamask assets to be downloaded is located here https://metamask.io/assets
           logo: 'https://images.ctfassets.net/clixtyxoaeas/4rnpEzy1ATWRKVBOLxZ1Fm/a74dc1eed36d23d7ea6030383a4d5163/MetaMask-icon-fox.svg',
           name: 'MetaMask',
           description: 'Connect with MetaMask in your browser',
